@@ -55,7 +55,7 @@ Tôi tên là Trần Nguyễn Đạt, Backend Developer ![alt text](image.png)
 
 ## 🔍  Where to find me
 &nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />](linkedin.com/in/đạt-trần-nguyễn-ba1595389)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />](https://linkedin.com/in/đạt-trần-nguyễn-ba1595389)
 &nbsp;
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" />](https://web.facebook.com/tran.nguyen.at.786435)
 &nbsp;
