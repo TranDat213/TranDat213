@@ -64,3 +64,14 @@ Tôi tên là Trần Nguyễn Đạt, Backend Developer ![alt text](image.png)
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
+
+[![GitHub Follow](https://img.shields.io/github/followers/TranDat213?label=Follow%20Me&style=social)](https://github.com/TranDat213)
+
+<strong>Github stats</strong>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TranDat213&cache_seconds=86400&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
+
+<strong>Top Repositories</strong>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mezon-campus-studio&repo=website-blog&theme=swift)](https://github.com/mezon-campus-studio/website-blog)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TranDat213&repo=FlashDat&theme=swift)](https://github.com/TranDat213/FlashDat)
