@@ -1,6 +1,6 @@
-# Xin chào ! 🥖
+# Hello ! 🥖
 
-Tôi tên là Trần Nguyễn Đạt, Backend Developer ![alt text](image.png)
+I am Tran Nguyen Dat, Backend Developer ![alt text](image.png)
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=blueberry-light&animation=grow_out_in&layout=churchill&font=PixelifySans&quoteType=quote-for-the-day&bgColor=skyblue&fontColor=navy)
 ## 🛠  Backend
@@ -46,11 +46,9 @@ Tôi tên là Trần Nguyễn Đạt, Backend Developer ![alt text](image.png)
 ## 🧱 Framework / Library
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" height="28" />
 &nbsp;
-
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="30" />
 &nbsp;
-
-[<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />][tech_tools_anchor]
+<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
 &nbsp;
 
 ## 🔍  Where to find me
@@ -60,6 +58,8 @@ Tôi tên là Trần Nguyễn Đạt, Backend Developer ![alt text](image.png)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" />](https://web.facebook.com/tran.nguyen.at.786435)
 &nbsp;
 [<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="30" />](https://www.tiktok.com/@trannguyendat30?is_from_webapp=1&sender_device=pc)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-YourEmail-red?style=for-the-badge&logo=gmail)](mailto:trannguyendat2003@gmail.com)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
